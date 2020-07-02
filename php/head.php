@@ -15,7 +15,6 @@
 	</script>		
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta charset="UTF-8">
-	<script data-ad-client="ca-pub-7120273231717173" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <?php
 header("Cache-Control: no-cache, no-store, must-revalidate"); // HTTP 1.1.
 header("Pragma: no-cache"); // HTTP 1.0.
